@@ -17,5 +17,5 @@
 ![barbottom](https://user-images.githubusercontent.com/60839576/124624249-5954ed80-de9a-11eb-8418-2925fe0b787e.png)
  -->
  
- # Coming Soon
+ # Coming Soon - [DiscordPlug]
  ![dplug](https://legacywidgetmaniac.goodboye.repl.co/?uncache)
