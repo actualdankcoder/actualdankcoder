@@ -18,4 +18,4 @@
  -->
  
  # Coming Soon
- ![dplug](https://legacywidgetmaniac.goodboye.repl.co/?xyz)
+ ![dplug](https://legacywidgetmaniac.goodboye.repl.co/?uncache)
