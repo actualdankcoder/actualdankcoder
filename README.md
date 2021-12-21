@@ -18,4 +18,4 @@
  -->
  
  # Coming Soon - [DiscordPlug]
- ![dplug](https://legacywidgetmaniac.goodboye.repl.co/?uncache)
+ ![dplug](https://api.bakerie.gq/user/488688724948025357)
