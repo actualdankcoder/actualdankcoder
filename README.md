@@ -18,4 +18,4 @@
  -->
  
  # Coming Soon - [DiscordPlug]
- ![dplug](https://api.bakerie.gq/user/488688724948025357)
+ ![dplug](https://api.bakerie.gq/theme-1/488688724948025357)
