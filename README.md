@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=actualdankcoder&label=Profile%20views&color=0e75b6&style=flat" alt="actualdankcoder" /> </p>
 </a> </p>
 
-- 🔭 I’m currently working on [DiscordPlug](https://github.com/actualdankcoder/discordplug)
+- 🔭 I’m currently working on [Salmon](https://github.com/actualdankcoder/salmon)
 
 - 🌱 I’m currently learning **Gatsby & Rust**
 
