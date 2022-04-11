@@ -15,7 +15,7 @@
 
 - 📖 I like books, I'm currently reading "The Subtle Art of not giving a f*ck"
 
-- 🕵️ I like writing [blogs](https://www.dankcoder.me/), I am working on a book documenting my experience with 4 years in backend development
+- 🕵️ I like writing [devlogs](https://www.dankcoder.me/), I am working on a book documenting my experience with 4 years in backend development
 
 - 📫 Reach me on discord: DankCoder#9983
 
