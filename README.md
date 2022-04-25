@@ -9,7 +9,7 @@
 
 ## Some Stuff about me: 
 
-- 🎃 I like to write scalable backend systems, I'm proficient in Python 🐍, Rust 🦀, C++ and Scala
+- 🎃 I like to write scalable backend systems, I'm proficient in Python 🐍, Rust 🦀, C++ and Lua
 
 - 🌱 I’m a high school code hobbyist, I'll be in a university this year
 
