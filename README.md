@@ -9,13 +9,13 @@
 
 ## Some Stuff about me: 
 
-- 🎃 I like to write scalable backend systems, I'm proficient in Python 🐍, Rust 🦀, C++ and Lua
+- 🎃 I like to write scalable backend systems, I'm proficient in Python 🐍, Golang <img height=16 width=16 src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif"/> , C++ and Lua
 
 - 🌱 I’m a high school code hobbyist, I'll be in a university this year
 
-- 📖 I like books, I'm currently reading "The Subtle Art of not giving a f*ck"
+- 📖 I like books, I'm currently reading 'The Beginning after the End', ~'The Subtle Art of not giving a f*ck(done)'~
 
-- 🕵️ I like writing [devlogs](https://www.dankcoder.me/), I am working on a book documenting my experience with 4 years in backend development
+- 🕵️ I like writing [devlogs](https://www.dankcoder.me/)
 
 - 📫 Reach me on discord: DankCoder#9983
 
@@ -23,7 +23,6 @@
 <p align="left">
    <a href="https://stackoverflow.com/users/10742105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10742105" height="30" width="40" /></a>
    <a href="https://www.youtube.com/c/dankcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dankcoder" height="30" width="40" /></a>
-   <a href="https://www.codechef.com/users/dankcoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dankcoder" height="30" width="40" /></a>
 </p>
 
 ## Dynamic Statistics
