@@ -26,6 +26,6 @@
 </p>
 
 ## Dynamic Statistics
-![dplug](https://plug.ninja/theme-1/488688724948025357)
+![dplug](https://plug.ninja/theme-1/488688724948025357?size=64)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=actualdankcoder&show_icons=true&locale=en&layout=compact&theme=radical" alt="actualdankcoder" /></p>
