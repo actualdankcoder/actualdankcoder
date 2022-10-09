@@ -11,7 +11,7 @@
 
 - 🎃 I like to write scalable backend systems, I'm proficient in Python 🐍, Golang <img height=16 width=16 src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif"/> , C++ and Lua
 
-- 🌱 I’m a high school code hobbyist, I'll be in a university this year
+- 🌱 ~I’m a high school code hobbyist~ , I'll ~be~ am in a university ~this year~
 
 - 📖 I like books, I'm currently reading 'The Beginning after the End', ~'The Subtle Art of not giving a f*ck(done)'~
 
